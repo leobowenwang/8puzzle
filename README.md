@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------
 Filename:    8puzzle.py
-By:          Chmel Sebastian @uknow4real & Wang Leo @leobwang
+By:          Chmel Sebastian & Wang Leo 
 ------------------------------------------------------------------
 File description:
 Solves a random generated 8-puzzle board using manhattan distance
